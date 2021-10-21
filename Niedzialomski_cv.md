@@ -4,7 +4,7 @@
 - **Imię i nazwisko:** Paweł Niedziałomski
 - **Data urodzenia:** 29.12.1997 r.
 - **Adres zamieszkania:** Lublin, ul. Marii Skłodowskiej-Curie 22/4
-- **E-mail:** <niedzialomski1@gmail.com>
+ **E-mail:** <niedzialomski1@gmail.com>
 - **Numer tel.:** 999 999 999
 ---
 # *Wykształcenie:*
