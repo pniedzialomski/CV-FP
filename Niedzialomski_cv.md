@@ -30,4 +30,4 @@
     07.2021 - 08.2021
 ---
 # Zainteresowania:
-podróże, kolarstwo, seriale 
+podróże, kolarstwo, seriale a tutaj jest inaczej niz wczesniej
