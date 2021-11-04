@@ -29,5 +29,5 @@
     Praktykant
     07.2021 - 08.2021
 ---
-# Zainteresowania:
-podróże, kolarstwo, seriale 
+# hobby:
+lubie jedzienie, spanie oraz rozwiązywanie sudoku
